@@ -3,6 +3,7 @@ main()
 add()
 {
 printf("Hello");
+printf("Addition");
 }
 sub();
 div();
