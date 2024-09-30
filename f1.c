@@ -4,6 +4,7 @@ add()
 {
 printf("Hello");
 printf("Addition");
+printf("Subtraction");
 }
 sub();
 div();
