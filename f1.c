@@ -1,4 +1,10 @@
-#include<stdio.h>
-void main(){
-  printf("Hello World");
+main()
+{
+add()
+{
+printf("Hello");
+}
+sub();
+div();
+multi();
 }
