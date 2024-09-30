@@ -7,4 +7,5 @@ printf("Hello");
 sub();
 div();
 multi();
+  mod();
 }
